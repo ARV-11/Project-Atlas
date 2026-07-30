@@ -73,7 +73,6 @@ Current Deliverables:
 
 # 🗺 Roadmap
 
-- [x] Repository Setup
 - [ ] Discovery & Vision
 - [ ] Market Research
 - [ ] Business Analysis
