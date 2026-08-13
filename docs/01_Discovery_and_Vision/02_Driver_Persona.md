@@ -188,7 +188,7 @@ A platform that can demonstrate a clear financial advantage may therefore have a
 
 ---
 
-# 12. User Needs
+## 12. User Needs
 
 Based on the persona analysis, Richard requires:
 
@@ -218,7 +218,7 @@ He needs confidence that switching platforms will produce a meaningful financial
 
 ---
 
-# 13. Atlas Opportunities
+## 13. Atlas Opportunities
 
 Richard's needs reveal several potential product opportunities.
 
@@ -237,13 +237,13 @@ These opportunities will be validated during subsequent requirements analysis.
 
 ---
 
-# 14. Persona Quote
+## 14. Persona Quote
 
 > **"If I'm going to spend my limited free time driving, I want to know that the money I'm making is actually worth the time I'm putting in."**
 
 ---
 
-# 15. Key Insights
+## 15. Key Insights
 
 ### Insight 1 — Richard optimises for income per unit of time.
 
@@ -267,7 +267,7 @@ Switching barriers may therefore be lower if Atlas demonstrates superior economi
 
 ---
 
-# 16. Product Design Implications
+## 16. Product Design Implications
 
 The persona suggests that Atlas should prioritise:
 
@@ -284,7 +284,7 @@ These implications will inform the requirements and future-state design phases.
 
 ---
 
-# 17. Persona Limitations
+## 17. Persona Limitations
 
 This persona is based on a simulated discovery scenario and should not be interpreted as statistically representative of Australian ride-share drivers.
 
