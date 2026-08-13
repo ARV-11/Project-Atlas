@@ -328,4 +328,4 @@ Therefore, rider and driver needs cannot be analysed independently.
               Marketplace
                Liquidity
                      ↓
-              Platform Growthß
+              Platform Growth
