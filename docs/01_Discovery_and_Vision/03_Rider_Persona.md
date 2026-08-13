@@ -322,7 +322,7 @@ Therefore, rider and driver needs cannot be analysed independently.
        earnings             transport
           │                     │
           ↓                     ↓
-    More drivers         More ride demand
+    More ride demand      More drivers
           └──────────┬──────────┘
                      ↓
               Marketplace
